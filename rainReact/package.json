@@ -1,0 +1,24 @@
+{
+  "name": "rainreact",
+  "version": "1.0.0",
+  "description": "react",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "Giri Rokz",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "prop-types": "^15.5.10",
+    "react": "^15.4.2",
+    "react-bootstrap": "^0.30.7",
+    "react-dom": "^15.4.2",
+    "webpack": "^1.15.0",
+    "webpack-dev-server": "^1.16.5",
+    "whatwg-fetch": "^2.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.0.0"
+  }
+}
